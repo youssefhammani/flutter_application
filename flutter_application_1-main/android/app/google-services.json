@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90807537093",
+    "project_id": "wallpaper-sakura",
+    "storage_bucket": "wallpaper-sakura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90807537093:android:5e6b2e6db7f79f75cb4fac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90807537093-qa0hm1mfo258t1frup39o8k7dnqq5br3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7FX2jqc9gxPGL3QplSOik2_Y80WeDEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90807537093-qa0hm1mfo258t1frup39o8k7dnqq5br3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
